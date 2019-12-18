@@ -165,7 +165,7 @@ The experiment is conducted to test the photosensitive light sensors to implemen
 
 To detect a hand motion (gesture), more than one sensor is required. After the first experiment, the team added another photosensitive light sensor to the circuit. Simultaneous readings from two sensors are used to detect hand motion from right to left or left to the right direction. Additionally, the setup was enclosed in a box to reduce the influence of ambient lighting on the sensors and minimize noise from the ambient atmosphere (vibrations, wind, heat, etc.).
 
-**Experiment 3: Analog output I** <a href="https://github.com/yujuem/12740project.github.io/blob/master/Exp3.pdf" target="_blank">Experiment 3</a> and <a href="https://github.com/yujuem/12740project.github.io/blob/master/Code%20EXP%203(new).pdf">Code</a>
+**Experiment 3: Analog output I** <a href="https://github.com/yujuem/12740project.github.io/blob/master/Exp3.pdf" target="_blank">Experiment 3</a> and <a href="https://github.com/yujuem/12740project.github.io/blob/master/Code%20EXP%203.pdf">Code</a>
 
 The experiment is conducted to make the system detect the hand motion successfully. Two light sensors, Raspberry Pi, A/D converter, and python code are used to create the system. The difference in the analog voltage output values between the initial value and measurement is appended to the list of the sensor. The list has a fixed length of three. Hand motion is detected in the code by comparing the first and last values of both lists. The system is not detecting the hand motion properly, and the modification of the code is needed. 
 
