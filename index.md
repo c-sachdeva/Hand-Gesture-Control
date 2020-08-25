@@ -6,8 +6,6 @@
 
 [Project Video](https://www.youtube.com/watch?v=Bn2jMuWJl88&feature=youtu.be)
 
-[Project Progress Report](https://c-sachdeva.github.io/12740progress_report/)
-
 [OpenChirp](https://openchirp.io/home/device/5da233d1466cc60c381e0c83)
 
 ## 1 Introduction
